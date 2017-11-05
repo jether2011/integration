@@ -33,4 +33,4 @@ To test with POSTMAN (extension and app with test API):
 - https://integration-apps.herokuapp.com/api/v1/client
 - https://integration-apps.herokuapp.com/api/v1/client/cpf/{some-cpf-to-find-someone}
 
-I expect with this example of the integration of these apps the people can learn more about development apps and do more than this.
+I just wanna help some developer if need the real example to create something.
