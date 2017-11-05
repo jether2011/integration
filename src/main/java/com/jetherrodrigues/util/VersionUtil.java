@@ -8,7 +8,7 @@ public class VersionUtil {
 	public final static String VERSION_V1 = "v1/";
 	
 	/**
-	 * The specific configurations for endpoint
+	 * The specific configurations for endpoints
 	 */
-	public final static String VALIDATE = "cpf-validate";
+	public final static String CLIENT = "client";
 }

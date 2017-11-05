@@ -17,6 +17,10 @@ public class ClientService {
 		this.client.save(client);
 	}
 	
+	public Client findByCpf(String cpf){
+		return client.findByCpf(cpf);
+	}
+	
 	public List<Client> findAll(){
 		return client.findAll();
 	}
