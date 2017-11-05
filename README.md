@@ -18,4 +18,4 @@ I used:
 - Simple mobile Ionic app to make one client to test the API to validate the CPF (you can run the Ionic app localhost or generate the IOs or Android build application);
 
 
-I expect with this example of the integration of these apps the the people can learn something about development apps.
+I expect with this example of the integration of these apps the people can learn more about development apps and do more than this.
